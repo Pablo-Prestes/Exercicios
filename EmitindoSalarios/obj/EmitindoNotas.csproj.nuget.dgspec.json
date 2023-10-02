@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Exercicio C#\\EmitindoSalarios\\Ex1\\EmitindoNotas.csproj": {}
+    "D:\\Exercicio C#\\EmitindoSalarios\\EmitindoNotas.csproj": {}
   },
   "projects": {
-    "D:\\Exercicio C#\\EmitindoSalarios\\Ex1\\EmitindoNotas.csproj": {
+    "D:\\Exercicio C#\\EmitindoSalarios\\EmitindoNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Exercicio C#\\EmitindoSalarios\\Ex1\\EmitindoNotas.csproj",
+        "projectUniqueName": "D:\\Exercicio C#\\EmitindoSalarios\\EmitindoNotas.csproj",
         "projectName": "EmitindoNotas",
-        "projectPath": "D:\\Exercicio C#\\EmitindoSalarios\\Ex1\\EmitindoNotas.csproj",
+        "projectPath": "D:\\Exercicio C#\\EmitindoSalarios\\EmitindoNotas.csproj",
         "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-        "outputPath": "D:\\Exercicio C#\\EmitindoSalarios\\Ex1\\obj\\",
+        "outputPath": "D:\\Exercicio C#\\EmitindoSalarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
