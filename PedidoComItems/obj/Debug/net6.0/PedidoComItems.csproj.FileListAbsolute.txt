@@ -1,0 +1,14 @@
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\PedidoComItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\PedidoComItems.AssemblyInfoInputs.cache
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\PedidoComItems.AssemblyInfo.cs
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\PedidoComItems.csproj.CoreCompileInputs.cache
+D:\Exercicio C#\PedidoComItems\bin\Debug\net6.0\PedidoComItems.exe
+D:\Exercicio C#\PedidoComItems\bin\Debug\net6.0\PedidoComItems.deps.json
+D:\Exercicio C#\PedidoComItems\bin\Debug\net6.0\PedidoComItems.runtimeconfig.json
+D:\Exercicio C#\PedidoComItems\bin\Debug\net6.0\PedidoComItems.dll
+D:\Exercicio C#\PedidoComItems\bin\Debug\net6.0\PedidoComItems.pdb
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\PedidoComItems.dll
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\refint\PedidoComItems.dll
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\PedidoComItems.pdb
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\PedidoComItems.genruntimeconfig.cache
+D:\Exercicio C#\PedidoComItems\obj\Debug\net6.0\ref\PedidoComItems.dll
