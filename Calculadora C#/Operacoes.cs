@@ -15,7 +15,6 @@ namespace Calculadora {
             double aux2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double resultado = aux1 + aux2;
             Console.WriteLine($"O resultado da soma de {aux1} + {aux2} é {resultado}");
-
         }
         public static void Subtracao() {
             Console.Write("Digite o primeiro valor: ");
@@ -25,7 +24,6 @@ namespace Calculadora {
             double resultado = aux1 - aux2;
             Console.WriteLine($"O resultado da Subtração de {aux1} - {aux2} é {resultado}");
         }
-
         public static void Multiplicacao() {
             Console.Write("Digite o primeiro valor: ");
             double aux1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);

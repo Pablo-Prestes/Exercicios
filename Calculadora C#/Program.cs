@@ -20,8 +20,10 @@ namespace Calculadora {
                 Console.WriteLine("--------------------------------------------------------------------");
                 Console.Write("Escolha qual operação você deseja fazer: ");
                 int valorUsuario = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
                 Console.WriteLine(" ");
                 Console.Clear();
+
                 if (valorUsuario > 0 && valorUsuario <= 6) {
                  
                     if (valorUsuario == 1) {

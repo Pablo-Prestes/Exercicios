@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Calculadora em C#\\Calculadora\\Calculadora.csproj": {}
+    "D:\\Exercicio C#\\Calculadora C#\\Calculadora.csproj": {}
   },
   "projects": {
-    "D:\\Calculadora em C#\\Calculadora\\Calculadora.csproj": {
+    "D:\\Exercicio C#\\Calculadora C#\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Calculadora em C#\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "D:\\Exercicio C#\\Calculadora C#\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "D:\\Calculadora em C#\\Calculadora\\Calculadora.csproj",
+        "projectPath": "D:\\Exercicio C#\\Calculadora C#\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-        "outputPath": "D:\\Calculadora em C#\\Calculadora\\obj\\",
+        "outputPath": "D:\\Exercicio C#\\Calculadora C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
