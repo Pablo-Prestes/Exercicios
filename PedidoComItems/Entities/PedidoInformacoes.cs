@@ -3,16 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using PedidoComItems.Entities.Enum;
-using PedidoComItems.Entities;
+using PedidoItems.Entities.Enum;
+using PedidoItems.Entities;
 using System.Globalization;
 
-namespace PedidoComItems.Entities {
+namespace PedidoItems.Entities {
     class PedidoInformacoes {
         public int Quantidade { get; set; }
         public double Preco { get; set; }
         public Produto Produto { get; set; }
-
 
         public PedidoInformacoes() { }
 

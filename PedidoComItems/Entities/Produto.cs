@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PedidoComItems.Entities {
+namespace PedidoItems.Entities {
      class Produto {
         public string Nome { get;  set; }
         public double Preco { get;  set; }

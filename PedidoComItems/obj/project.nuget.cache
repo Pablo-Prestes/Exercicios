@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vO3UfoRG7W8EzxDZmslLLzftRgxCZySWeTEeVyZbreu05csMNQPubCBEpd+gVLxHQvtawJHnlly1PkhPURP0cg==",
+  "dgSpecHash": "gisKDY8ENs+AGqjJuhxPqwqgl+uJU1DPOGqsB2MNdOZRK4TMDpGKkiC5MB/qd+ckoOYI1kNVTUGWKPIKYxQzNg==",
   "success": true,
-  "projectFilePath": "D:\\Exercicio C#\\PedidoComItems\\PedidoComItems.csproj",
+  "projectFilePath": "D:\\Exercicio C#\\PedidoComItems\\PedidoItems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

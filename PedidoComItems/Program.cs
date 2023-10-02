@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Globalization;
 using System.Threading.Channels;
-using PedidoComItems.Entities;
-using PedidoComItems.Entities.Enum;
+using PedidoItems.Entities;
+using PedidoItems.Entities.Enum;
 
 namespace Teste {
     public class Program {

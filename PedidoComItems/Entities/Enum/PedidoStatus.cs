@@ -1,4 +1,4 @@
-﻿namespace PedidoComItems.Entities.Enum {
+﻿namespace PedidoItems.Entities.Enum {
      enum PedidoStatus :int{
         Pagamento = 0,
         Processando = 1,

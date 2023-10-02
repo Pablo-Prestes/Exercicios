@@ -1,9 +1,9 @@
-﻿using PedidoComItems.Entities.Enum;
-using PedidoComItems.Entities;
+﻿using PedidoItems.Entities.Enum;
+using PedidoItems.Entities;
 using System.Text;
 using System.Globalization;
 
-namespace PedidoComItems.Entities {
+namespace PedidoItems.Entities {
     class Pedido {
         public DateTime MomentoPedido { get;  set; }
         public PedidoStatus PedidoStatus { get; set; }
@@ -14,7 +14,6 @@ namespace PedidoComItems.Entities {
             PedidoStatus = status;
             Cliente = cliente;
         }
-
         public void AdicionarItem(PedidoInformacoes pedidoItems) {
             itemPedido.Add(pedidoItems);
 

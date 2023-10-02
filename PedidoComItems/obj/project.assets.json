@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Exercicio C#\\PedidoComItems\\PedidoComItems.csproj",
-      "projectName": "PedidoComItems",
-      "projectPath": "D:\\Exercicio C#\\PedidoComItems\\PedidoComItems.csproj",
+      "projectUniqueName": "D:\\Exercicio C#\\PedidoComItems\\PedidoItems.csproj",
+      "projectName": "PedidoItems",
+      "projectPath": "D:\\Exercicio C#\\PedidoComItems\\PedidoItems.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "D:\\Exercicio C#\\PedidoComItems\\obj\\",
       "projectStyle": "PackageReference",
