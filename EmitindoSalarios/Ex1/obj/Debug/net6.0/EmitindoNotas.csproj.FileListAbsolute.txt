@@ -1,0 +1,14 @@
+D:\Exercicio C#\EmitindoSalarios\Ex1\bin\Debug\net6.0\EmitindoNotas.exe
+D:\Exercicio C#\EmitindoSalarios\Ex1\bin\Debug\net6.0\EmitindoNotas.deps.json
+D:\Exercicio C#\EmitindoSalarios\Ex1\bin\Debug\net6.0\EmitindoNotas.runtimeconfig.json
+D:\Exercicio C#\EmitindoSalarios\Ex1\bin\Debug\net6.0\EmitindoNotas.dll
+D:\Exercicio C#\EmitindoSalarios\Ex1\bin\Debug\net6.0\EmitindoNotas.pdb
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\EmitindoNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\EmitindoNotas.AssemblyInfoInputs.cache
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\EmitindoNotas.AssemblyInfo.cs
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\EmitindoNotas.csproj.CoreCompileInputs.cache
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\EmitindoNotas.dll
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\refint\EmitindoNotas.dll
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\EmitindoNotas.pdb
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\EmitindoNotas.genruntimeconfig.cache
+D:\Exercicio C#\EmitindoSalarios\Ex1\obj\Debug\net6.0\ref\EmitindoNotas.dll
